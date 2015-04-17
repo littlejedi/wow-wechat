@@ -48,6 +48,7 @@ public class WechatServiceBean implements WechatService {
         nMap.put(26, "朴天使");
         nMap.put(27, "皮蛋");
         nMap.put(28, "TT");
+        nMap.put(29, "天恸");
         nicknameMap = Collections.unmodifiableMap(nMap);
     }
 	
